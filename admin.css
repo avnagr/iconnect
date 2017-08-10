@@ -1,0 +1,66 @@
+#idea
+{
+	width:150px;
+}
+div#form
+{
+	position: absolute;
+	
+  width: 800px;
+  height: 200px;
+  z-index: 1;
+  top: 50%;
+  left: 35%;
+  margin: -100px 0 0 -150px;
+  background: white;
+}
+
+#footer{
+	position: relative;
+	bottom: 0px;
+	width:100%;
+	
+}
+div#fixheader {
+	position:relative;
+	top:0px;
+	left:0px;
+	width:100%;
+	color:#CCC;
+	background:#00ffbf;
+	padding:15px;
+	text-decoration:none;
+}
+#photo
+{
+   height:150px;
+	width:1000px;
+	z-index:1; 
+	margin-left:200px;
+	margin-top:70px;
+	
+}
+#view{
+	margin-top:100px;
+	margin-left:480px;
+}
+#button{
+	margin-left:580px;
+	
+}
+
+a{
+	color:orange;
+	text-decoration:none;
+}
+a:visited{
+	color:green;
+}
+a:hover{
+	color:red;
+	text-decoration:underline;
+}
+a:active{
+	color:black;
+	text-decoration:underline;
+}
